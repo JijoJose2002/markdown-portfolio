@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li>jijo</li>
+  <li>jimmy</li>
+  <li>amma and appachan</li>
+</ol>
